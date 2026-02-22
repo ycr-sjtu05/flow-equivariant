@@ -1,0 +1,10 @@
+wandb/
+datasets/
+data/
+*wikitext*
+__pycache__/
+*.pth
+*.pt
+*.ckpt
+*_backup/
+
